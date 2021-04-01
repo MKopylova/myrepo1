@@ -58,5 +58,5 @@ lxd:!::ubuntu,mineko_ando1
 _chrony:!::
 systemd-coredump:!!::
 ubuntu:!::mineko_ando1
-google-sudoers:!::mineko_ando1
+google-sudoers:!::
 mineko_ando1:!::
